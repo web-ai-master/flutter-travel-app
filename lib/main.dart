@@ -1,16 +1,17 @@
 import 'package:flutter/material.dart';
-import 'package:travelapp/home.dart';
+import 'package:travell_app/home.dart';
 
 void main() {
   runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
+  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
@@ -19,4 +20,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-

@@ -1,37 +1,39 @@
 const destination = [
   {
-    'imagePath': 'assets/tower.jpg'
-  }, 
-  {
     'imagePath': 'assets/mountain.jpg'
-  }, 
+  },
+  {
+    'imagePath': 'assets/japan-home.jpg'
+  },
   {
     'imagePath': 'assets/city.jpg'
-  }, 
+  },
   {
     'imagePath': 'assets/statue.jpg'
-  }
+  },
 ];
 
 const hotDestination = [
   {
     'imagePath': 'assets/bridge.jpg',
-    'placeName': 'America',
-    'placeCount': '18 Tourist plcae'
+    'placeName': 'Ella',
+    'placeCount': '18 Tourist place',
   },
   {
-    'imagePath': 'assets/japan.jpg',
-    'placeName': 'Japan',
-    'placeCount': '10 Tourist plcae'
+    'imagePath': 'assets/japan-home.jpg',
+    'placeName': 'Yala',
+    'placeCount': '10 Tourist place',
   },
   {
     'imagePath': 'assets/mountain.jpg',
-    'placeName': 'Newyork',
-    'placeCount': '20 Tourist plcae'
+    'placeName': 'Colombo',
+    'placeCount': '20 Tourist place',
   },
   {
     'imagePath': 'assets/city.jpg',
-    'placeName': 'Newyork',
-    'placeCount': '18 Tourist plcae'
+    'placeName': 'Sigiriya',
+    'placeCount': '20 Tourist place',
   },
+  
 ];
+
