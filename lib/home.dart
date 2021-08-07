@@ -296,6 +296,15 @@ class Home extends StatelessWidget {
               size: 32,
               fontWeight: FontWeight.w700,
               ),
+          // Padding(
+          //   padding: const EdgeInsets.only(top:20.0, left: 0),
+          //   child: PrimaryText(
+          //     text:'𝓫𝔂 𝓔𝔁𝓹𝓵𝓸𝓻𝓮 𝓢𝓻𝓲𝓵𝓪𝓷𝓪𝓴𝓪',
+          //     size: 20,
+          //     fontWeight: FontWeight.w700,
+          //     color: Colors.yellow,
+          //   ),
+          // ),
           RawMaterialButton(
             constraints: BoxConstraints(minWidth: 0),
             onPressed: null,
